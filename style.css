@@ -1,0 +1,15 @@
+body.main
+{
+    background-color: #CB4154;
+    margin-top: 50px;
+    padding-left: 400px;
+}
+div>div
+{
+    background-color: #3D1E37;
+    width: 100px;
+    margin-top: 5px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 7px;
+}
